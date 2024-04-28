@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M-fatimaZohra
 - 👀 I’m interested in AI (ARTIFICIAL INTELLIGANCE)
-- 🌱 I’m currently learning about deep learning 
+- 🌱 I’m currently learning about typescript
 - 💞️ I’m looking to collaborate on my teachers
 - 📫 How to reach me https://github.com/M-fatimaZohra/M-fatimaZohra
 - 😄 Pronouns: she/her
