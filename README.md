@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @M-fatimaZohra
-- 👀 I’m interested in AI (ARTIFICIAL INTELLIGANCE)
-- 🌱 I’m currently learning about typescript
-- 💞️ I’m looking to collaborate on my teachers
-- 📫 How to reach me https://github.com/M-fatimaZohra/M-fatimaZohra
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: when I found my interest in something I search for it at deepest of it
+Here's your updated **README** file with **Python** added to the learning section:  
 
-<!---
-M-fatimaZohra/M-fatimaZohra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+# 💫 Fatima Zohra  
+
+**📧 Email:** [fatima.zohra10122007@gmail.com](mailto:fatima.zohra10122007@gmail.com)  
+**🔗 LinkedIn:** [linkedin.com/in/fatima-zohra-4a1b712b4](https://www.linkedin.com/in/fatima-zohra-4a1b712b4/)  
+**🐙 GitHub:** [github.com/M-fatimaZohra](https://github.com/M-fatimaZohra)  
+
+## 🚀 About Me  
+My journey as a web developer began on **February 14, 2024**, at **GIAIC**, with the goal of becoming the **best web developer**. Currently, I specialize in **Frontend Development**, with expertise in **UI/UX** and strong functionality skills.  
+
+I am on a path to becoming a **Backend Developer** as well, aiming to master full-stack development.  
+
+## 🛠️ Skills  
+
+### 🔹 **Expert at:**  
+- UI/UX Design  
+- Tailwind CSS  
+- Next.js  
+- HTML  
+- CSS  
+
+### 🔹 **Good at:**  
+- JavaScript  
+- TypeScript  
+- Node.js  
+- GitHub  
+- API Integration  
+- Sanity  
+
+### 🎯 **Currently Learning:**  
+- Backend Development  
+- Authentication & Security  
+- Static Site Generation (SSG)  
+- Zod for Data Validation  
+- Python  
+
+## 🌟 Future Goals  
+I aspire to become a **Full-Stack Developer** with mastery over both **frontend and backend**, building seamless, efficient, and scalable web applications.  
+
+---
+
+Let me know if you need any more changes! 🚀
