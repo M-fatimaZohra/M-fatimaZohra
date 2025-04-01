@@ -1,6 +1,4 @@
-Here's your updated **README** file with **Python** added to the learning section:  
 
----
 
 # 💫 Fatima Zohra  
 
@@ -40,6 +38,3 @@ I am on a path to becoming a **Backend Developer** as well, aiming to master ful
 ## 🌟 Future Goals  
 I aspire to become a **Full-Stack Developer** with mastery over both **frontend and backend**, building seamless, efficient, and scalable web applications.  
 
----
-
-Let me know if you need any more changes! 🚀
