@@ -12,28 +12,25 @@ My journey as a web developer began on **February 14, 2024**, at **GIAIC**, with
 I am on a path to becoming a **Backend Developer** as well, aiming to master full-stack development.  
 
 ## 🛠️ Skills  
-
-### 🔹 **Expert at:**  
 - UI/UX Design  
 - Tailwind CSS  
 - Next.js  
 - HTML  
 - CSS  
-
-### 🔹 **Good at:**  
 - JavaScript  
 - TypeScript  
 - Node.js  
 - GitHub  
 - API Integration  
-- Sanity  
+- Sanity
+- Python 
 
 ### 🎯 **Currently Learning:**  
 - Backend Development  
 - Authentication & Security  
 - Static Site Generation (SSG)  
 - Zod for Data Validation  
-- Python  
+ 
 
 ## 🌟 Future Goals  
 I aspire to become a **Full-Stack Developer** with mastery over both **frontend and backend**, building seamless, efficient, and scalable web applications.  
