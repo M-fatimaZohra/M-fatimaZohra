@@ -23,7 +23,8 @@ I am on a path to becoming a **Backend Developer** as well, aiming to master ful
 - GitHub  
 - API Integration  
 - Sanity
-- Python 
+- Python
+- Agent Creation 
 
 ### 🎯 **Currently Learning:**  
 - Backend Development  
