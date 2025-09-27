@@ -24,7 +24,7 @@ I am on a path to becoming a **Backend Developer** as well, aiming to master ful
 - API Integration  
 - Sanity
 - Python
-- Agent Creation 
+- Agent Creation using Open ai agent SDK
 
 ### 🎯 **Currently Learning:**  
 - Backend Development  
