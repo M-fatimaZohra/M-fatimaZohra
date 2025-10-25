@@ -6,7 +6,6 @@
 
 ---
 
-## 💼 Headline  
 **AI Agent Engineer (OpenAI SDK) | Prompt Engineering Student | Backend Development Student (Django) | Front-End Developer (UI/UX) | TypeScript & Next.js Specialist | Python Developer | AI Handler**
 
 ---
@@ -23,18 +22,20 @@ I am currently expanding my expertise in **Prompt Engineering | Context Engineer
 ## 🧠 Skills  
 
 ### Core Expertise  
-![AI](https://img.shields.io/badge/AI%20Engineering-OpenAI%20Agent%20SDK-blue?style=flat-square)  
-![Prompt](https://img.shields.io/badge/Prompt%20Engineering-Advanced%20Context%20Design-orange?style=flat-square)  
-![Python](https://img.shields.io/badge/Python-Developer-yellow?style=flat-square)  
-![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=flat-square)  
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue?style=flat-square)  
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-UI%20Styling-0ea5e9?style=flat-square)  
-![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-Interface%20Design-9b59b6?style=flat-square)  
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green?style=flat-square)  
-![Sanity](https://img.shields.io/badge/Sanity%20CMS-Content%20Management-red?style=flat-square)  
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-gray?style=flat-square)  
-![Streamlit](https://img.shields.io/badge/Streamlit-AI%20UI-lightgrey?style=flat-square)  
-![Chainlit](https://img.shields.io/badge/Chainlit-Agent%20Interface-008080?style=flat-square)  
+- AI  engineering (OPEN AI AGENT SDK)
+- Prompt Engineering  
+- Python  
+- Git & GitHub 
+- UI/UX Design  
+- Tailwind CSS  
+- Next.js  
+- HTML & CSS  
+- JavaScript & TypeScript  
+- Node.js  
+- API Integration  
+- Sanity CMS  
+- Streamlit  
+- Chainlit  
 
 ---
 
