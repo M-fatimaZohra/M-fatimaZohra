@@ -1,4 +1,5 @@
-# 👩‍💻 Fatima Zohra  |   ![Floating Syntax GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwdDZ2Z2R6cGJvYXYzZmNjczRkbmo2ZjNsZG90aGR4Y2lsYnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)
+| 👩‍💻 Fatima Zohra | ![Floating Syntax GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwdDZ2Z2R6cGJvYXYzZmNjczRkbmo2ZjNsZG90aGR4Y2lsYnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif) |
+|--------------------|--------------------------------------------------------------------------------|
 
 **Email:** [fatima.zohra10122007@gmail.com](mailto:fatima.zohra10122007@gmail.com)  
 **LinkedIn:** [linkedin.com/in/fatima-zohra-4a1b712b4](https://www.linkedin.com/in/fatima-zohra-4a1b712b4/)  
