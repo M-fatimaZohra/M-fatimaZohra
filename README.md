@@ -18,6 +18,8 @@ My journey began on **February 14, 2024**, at **GIAIC**, guided by a deep curios
 I am currently expanding my expertise in **Prompt Engineering | Context Engineering** and **Back-End Development**, with the goal of evolving into a **Full-Stack AI Engineer** — someone who designs intelligent, scalable, and visually refined digital ecosystems.  
 
 ---
+![Floating Syntax GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODkwdDZ2Z2R6cGJvYXYzZmNjczRkbmo2ZjNsZG90aGR4Y2lsYnR0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif)
+
 
 ## 🧠 Skills  
 
