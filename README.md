@@ -43,7 +43,9 @@ I am currently expanding my expertise in **Prompt Engineering | Context Engineer
 
 ### Currently Learning  
 - Prompt Engineering | Context Engineering  
-- Back-End Development  
+- Back-End Development
+
+ ### Planning to Learn in future
 - Authentication & Security  
 - Static Site Generation (SSG)  
 
